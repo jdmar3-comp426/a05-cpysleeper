@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+  }
+
+  h3, h6 {
+      font-family: fantasy;
+      color:pink;
+      text-align:left
+  }
+
+  nav{
+      font-style: italic;
+      font-family: cursive;
+      color:blue;
+      text-align: left;
+      background-color: lightgoldenrodyellow;
+      opacity: 0.3;
+      border-style: hidden;
+     }
+
+     nav a{
+      color:cyan;
+     }
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    border-style: groove;
+  }
+  .center {
+background-color: #00aeff;
+  }
+
+  a:hover {
+    color: #FF00FF;
+  }
+
+  a:link {
+    color: #0066ff;
+  }
+  
+  
+  a:visited {
+    color: #00FF00;
+  }
+
+  #identification {
+    font-family: fantasy;
+    color:cyan;
+    text-align:center;
+  }
+
+  nav {
+    height: 50px;
+    width: 50%;
+  }
+
